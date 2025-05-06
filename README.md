@@ -14,7 +14,7 @@
 
 :open_file_folder: `Professor de Desenvolvimento web (2021)`
 
->*Durante um Periodo de tempo a turma de 3º ano de Informatica da E.E.E.P Alan Pinho Tabosa Ficou sem um professor de nas materias de desenvolvimento web e então fui convidado pelo coordenador do curso para lecionar a materia de forma voluntaria até que um professor fixo se estabelecesse.*
+>*Durante um Periodo de tempo a turma de 3º ano de Informatica da E.E.E.P Alan Pinho Tabosa Ficou sem um professor de na materias de desenvolvimento web e então fui convidado pelo coordenador do curso para lecionar a materia de forma voluntaria até que um professor fixo se estabelecesse.*
 
 :open_file_folder: `Monitor de Laboratorio de Informatica na E.E.E.P Alan Pinho Tabosa (fevereiro de 2022 - Agosto de 2023)`
 >*Fui responsavel pela organização e manutenção dos laboratorios de informatica e linguas, tambem ofertei cursos de informatica basica e desenvolvimento web. Além de Lecionar e Auxiliar nas aulas de Desenvolvimento Web, Desing, Informatica Basica e Banco de Dados.*
