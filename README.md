@@ -2,7 +2,7 @@
   
 :open_file_folder: ` Tecnico em nivel medio em redes de computadores. (2018-2020)`
 
->* Concluir o Ensino Medio e Tecnico em Rede de Computadores na Escola Estadual de Ensino Profissional Alan Pinho Tabosa, Localizada na R. Maria Menezes Furtado, 105 - Vila Nova, Pentecoste - CE, 62640-000.*
+>*Concluir o Ensino Medio e Tecnico em Rede de Computadores na Escola Estadual de Ensino Profissional Alan Pinho Tabosa, Localizada na R. Maria Menezes Furtado, 105 - Vila Nova, Pentecoste - CE, 62640-000.*
 
 :open_file_folder: `Cursando Análise e desenvolvimento de sistemas.`
 
