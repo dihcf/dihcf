@@ -1,3 +1,10 @@
+## ÁREAS DE CONHECIMENTO   :computer:
+[![HTML](https://img.shields.io/badge/HTML-%23FFac45.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange)](https://github.com/)
+[![CSS](https://img.shields.io/badge/CSS-%23FFac45.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue)](https://github.com/)
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23FFac45.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=yellow)](https://github.com/) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ## FORMAÇÃO E EXPERIÊNCIAS :file_folder:
   
 :open_file_folder: ` Tecnico em nivel medio em redes de computadores. (2018-2020)`
@@ -27,25 +34,13 @@
 
 >*Auxilio nas atividades administrativas da instituição, mas tenho como principal função a substituição de professores quando precisam se ausentar, para que os alunos não fiquem sem o conteudo de determinada materia.*
 
-## ÁREAS DE CONHECIMENTO   :computer:
-[![HTML](https://img.shields.io/badge/HTML-%23FFac45.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange)](https://github.com/)
-[![CSS](https://img.shields.io/badge/CSS-%23FFac45.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue)](https://github.com/)
-[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23FFac45.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=yellow)](https://github.com/) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## OBJETIVOS :dart:
 
+:pushpin: Concluir o ensino superior e iniciar um mestrado na área de t.i.c ou da educação.
 
-<!--
-**dihcf/dihcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:pushpin: Aperfeiçõar meus conhecimentos em desenvolvimento web.
 
-Here are some ideas to get you started:
+:pushpin: Iniciar mais uma graduação na área de t.i.c
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:pushpin: Ser professor de uma instituição de ensino superior
+
